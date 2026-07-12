@@ -36,16 +36,16 @@ Recently, I graduated from the **Dicoding x DBS Foundation** bootcamp, specializ
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight" alt="Azzam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azzamwahyudin1&show_icons=true&theme=tokyonight" alt="Azzam's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_LU&theme=tokyonight" alt="Azzam's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzamwahyudin1&theme=tokyonight" alt="Azzam's GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me!
 
-- **LinkedIn:** [linkedin.com/in/username-mu](https://linkedin.com/in/username-mu)
-- **Email:** [email-kamu@gmail.com](mailto:email-kamu@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhammad-azzam-wahyudin](www.linkedin.com/in/muhammad-azzam-wahyudin)
+- **Email:** [muhammadazzamwahyudin@gmail.com](mailto:muhammadazzamwahyudin@gmail.com)
 
 "Keep learning, keep secure, and automate everything!" 🚀
