@@ -33,15 +33,7 @@ Recently, I graduated from the **Dicoding x DBS Foundation** bootcamp, specializ
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azzamwahyudin1&show_icons=true&theme=tokyonight" alt="Azzam's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzamwahyudin1&theme=tokyonight" alt="Azzam's GitHub Streak" />
-</p>
-
----
 
 ### 🤝 Connect with Me!
 
