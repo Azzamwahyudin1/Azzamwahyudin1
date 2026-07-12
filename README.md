@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi everyone! I'm Muhammad Azzam Wahyudin 👋
 
-<!--
-**Azzamwahyudin1/Azzamwahyudin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student who is deeply passionate about **DevOps, Cloud Computing (AWS),** and **Cybersecurity**. Besides focusing on infrastructure and security, I am also actively building web applications as a **Full-Stack Developer**.
 
-Here are some ideas to get you started:
+Recently, I graduated from the **Dicoding x DBS Foundation** bootcamp, specializing in the *Full-Stack Developer* path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🏫 **Education:** Software Engineering Student
+- 💡 **Core Focus:** Cloud Infrastructure, DevOps Pipelines, Web Security, & Full-Stack Development
+- 🌱 **Currently Learning:** Infrastructure as Code (IaC), scalable AWS cloud architecture, and cybersecurity defense mechanisms.
+- 🎯 **Goal:** To become a reliable DevOps / Cloud Engineer with a strong foundation in security and development.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Cybersecurity** | Pentesting Basics, Network Security, CTF |
+
+---
+
+### 📜 Certifications & Training
+
+- **Full-Stack Developer Graduate** – Dicoding x DBS Foundation 🎓
+- *[Add other AWS / Dicoding certificates here if any]*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight" alt="Azzam's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_LU&theme=tokyonight" alt="Azzam's GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me!
+
+- **LinkedIn:** [linkedin.com/in/username-mu](https://linkedin.com/in/username-mu)
+- **Email:** [email-kamu@gmail.com](mailto:email-kamu@gmail.com)
+
+"Keep learning, keep secure, and automate everything!" 🚀
