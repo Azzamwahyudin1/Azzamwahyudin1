@@ -30,11 +30,8 @@ Recently, I graduated from the **Dicoding x DBS Foundation** bootcamp, specializ
 
 - **Full-Stack Developer Graduate** – Dicoding x DBS Foundation 🎓
 - https://www.dicoding.com/certificates/0LZ05KO9NX65
-
--https://drive.google.com/file/d/1FtTZSxQx82eB9ylM1xhHxryNQjGeEIGy/view?usp=sharing
-
 - https://drive.google.com/file/d/1FtTZSxQx82eB9ylM1xhHxryNQjGeEIGy/view?usp=sharing
-
+- https://drive.google.com/file/d/1kXQ0tb0trl0jW9xy3go-fbSzjLAdOL8u/view?usp=sharing
 ---
 
 
