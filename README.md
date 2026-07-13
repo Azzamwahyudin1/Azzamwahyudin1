@@ -11,7 +11,7 @@ Recently, I graduated from the **Dicoding x DBS Foundation** bootcamp, specializ
 - 🏫 **Education:** Software Engineering Student
 - 💡 **Core Focus:** Cloud Infrastructure, DevOps Pipelines, Web Security, & Full-Stack Development
 - 🌱 **Currently Learning:** Infrastructure as Code (IaC), scalable AWS cloud architecture, and cybersecurity defense mechanisms.
-- 🎯 **Goal:** To become a reliable DevOps / Cloud Engineer with a strong foundation in security and development.
+- 🎯 **Goal:** To become a reliable DevOps / Cloud Engineer with a strong foundation in security and development
 
 ---
 
